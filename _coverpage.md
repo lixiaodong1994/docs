@@ -1,10 +1,9 @@
-# docsify <small>3.5</small>
+![logo](logo.png)
+# lixd
 
-> 一个神奇的文档网站生成器。
+> 欢迎来到打怪世界
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 本博客诣在攻克一个个困难点，一点点提升自己。 
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/lixiaodong1994/docs)
 [Get Started](README)
